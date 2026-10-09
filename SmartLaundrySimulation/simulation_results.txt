@@ -1,0 +1,13 @@
+Smart Laundry Facility Simulation - results (NORMAL)
+Customers served: 50 / 50
+Average time per customer: 11.5 s
+Run time: 90.4 s
+Max concurrent washers: 6 / 6
+Max concurrent dryers: 4 / 4
+Washer failures: 2
+Kiosk failures: 5
+Peak payment queue: 5
+Owner called: no
+Average wait (washer / dryer / kiosk): 0.0 / 0.1 / 0.3 s
+Utilisation (washers / dryers / kiosks): 47% / 55% / 46%
+Throughput: 33.2 customers/min
